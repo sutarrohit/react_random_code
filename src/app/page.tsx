@@ -5,6 +5,7 @@ export default function Home() {
     { name: "Random Gift", link: "/randomGifts" },
     { name: "Pagination", link: "/pagination" },
     { name: "Websocket", link: "/websocket" },
+    { name: "Buy Ticket", link: "/buyTicket" },
   ];
 
   return (
